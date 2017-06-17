@@ -35,7 +35,7 @@ fn main() {
 
         // Update the state of the game
         event.update(|arg| {
-            game.update(arg.dt);
+            //game.update(arg.dt);
         });
     }
 }
