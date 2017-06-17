@@ -1,0 +1,8 @@
+[package]
+name = "life_game"
+version = "0.1.0"
+authors = ["guiqulaxi <935519890@qq.com>"]
+
+[dependencies]
+rand = "*"
+piston_window="*"
